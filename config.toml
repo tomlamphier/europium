@@ -1,0 +1,4 @@
+baseURL = "https://www.hugo-notebook.com/europium"
+languageCode = "en-us"
+title = "English Grammar  Notebook"
+theme = "book"
